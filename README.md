@@ -1,10 +1,12 @@
 # affan-khan
 Affan Khan — Data Analyst focused on clean insights and smart problem-solving.
-<h1 align="left">Hey 👋 Affan khan here,</h1>
+<h1 align="left"> 👋 Hi, I'm Affan,</h1>
 
 ###
 
-<h4 align="left">.I speak fluent Excel, SQL, and occasionally… human</h4>
+<h4 align="left">. 🎓 Final Year Mechanical Engineering Student
+💻 Aspiring Data Analyst | SQL | Excel | Power BI
+📍 India… human</h4>
 
 ###
 
