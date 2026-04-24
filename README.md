@@ -1,12 +1,12 @@
 # affan-khan
-Affan Khan — Data Analyst focused on clean insights and smart problem-solving.
+ 
 <h1 align="left"> 👋 Hi, I'm Affan,</h1>
 
 ###
 
 <h4 align="left">. 🎓 Final Year Mechanical Engineering Student
 💻 Aspiring Data Analyst | SQL | Excel | Power BI
-📍 India… human</h4>
+📍 India…</h4>
 
 ###
 
@@ -33,6 +33,7 @@ Databases: PostgreSQL
 
 <br clear="both">
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
@@ -49,7 +50,7 @@ Databases: PostgreSQL
 
 ###
 
-<h4 align="left">Contact</h4>
+<h4 align="left">Connect with me </h4>
 
 ###
 
