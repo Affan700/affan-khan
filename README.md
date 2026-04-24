@@ -58,8 +58,8 @@ Master data storytelling
 ###
 
 <h4 align="left">Connect with me </h4>
-<p align="left">www.linkedin.com/in/affan-khan700                                  
- <br>affanak36@gmail.com</p>
+<h4 align="left">www.linkedin.com/in/affan-khan700                                  
+<h4 allign="left">affanak36@gmail.com</p>
 <h5 align="left">⭐ Thanks for visiting my profile! </h5>
 
 ### 
