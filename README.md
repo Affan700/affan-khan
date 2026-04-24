@@ -34,7 +34,12 @@ Databases: PostgreSQL
 <br clear="both">
 
 
-<div align="left">
+<div align="left">🎯 Goals
+Land a Data Analyst role
+Strengthen problem-solving skills
+Master data storytelling
+
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -57,17 +62,14 @@ Databases: PostgreSQL
 <br clear="both">
 
 <div align="left">
-  <a href="www.linkedin.com/in/affan-khan700" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="http//:affanak36@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+ 
   </a>
 </div>
 
 ###
 
 <p align="left">www.linkedin.com/in/affan-khan700                                  <br>affanak36@gmail.com</p>
+⭐ Thanks for visiting my profile!
 
 ### 
 
