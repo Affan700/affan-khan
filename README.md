@@ -14,12 +14,21 @@ Affan Khan — Data Analyst focused on clean insights and smart problem-solving.
 
 ###
 
-<p align="left">Data Analyst<br>📚 Turning Data Into Meaningfull Insights<br>Excel | SQL | Power BI | Python</p>
+<p align="left"> I am a final-year engineering student transitioning into the IT domain, with a strong interest in Data Analytics. I enjoy working with data, uncovering insights, and building dashboards that solve real-world problems.
+
+Currently focusing on:
+
+SQL (Joins, CTEs, Advanced Queries)
+Advanced Excel
+Power BI Dashboards
+Exploratory Data Analysis (EDA)/p>
 
 ###
 
 <h4 align="left">Skills</h4>
-
+Languages & Tools: SQL, Excel, Power BI, Python (Basics)
+Data Analysis: EDA, Data Cleaning, Data Visualization
+Databases: PostgreSQL
 ###
 
 <br clear="both">
