@@ -1,11 +1,10 @@
-# affan-khan
+# Affan khan 
  
 <h1 align="left"> 👋 Hi, I'm Affan,</h1>
 
 ###
 
-<h4 align="left">. 🎓 Final Year Mechanical Engineering Student
-💻 Aspiring Data Analyst | SQL | Excel | Power BI
+<h4 align="left">.💻 Aspiring Data Analyst | SQL | Excel | Power BI
 📍 India…</h4>
 
 ###
